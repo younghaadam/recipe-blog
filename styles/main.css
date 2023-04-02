@@ -1,0 +1,102 @@
+.whole-page {
+    max-width: 1000px;
+    margin: auto;
+}
+
+.header-1 {
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+    font-size: 48px;
+    font-weight: 700;
+    color: black;
+}
+
+.paragraph-1 {
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    font-size: 14px;
+    font-weight: 500;
+    color: #4f4f4f;
+}
+
+.recipe-img {
+    width: 969px;
+    height: 470px;
+}
+
+.side-bar {
+    width: 216px;
+    height: 367px;
+    border-radius: solid 5px;
+}
+
+.menu-icon {
+    height: 26.52px;
+    width: 28.33px;
+}
+
+.header-2 {
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+    font-size: 24px;
+    font-weight: 700;
+    color: #333333;
+}
+
+.header-3 {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    font-size: 18px;
+    font-weight: 400;
+    color: #333333;
+}
+
+.bold-text {
+    font-weight: bolder;
+}
+
+.ul-list {
+    list-style-type: none;
+}
+
+.ol-list {
+    list-style-type: none;
+}
+
+.text-inputs {
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    font-size: 16px;
+    font-weight: 500;
+    color: #333333;
+}
+
+.link-text {
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    font-size: 16px;
+    font-weight: 400;
+    color: #bdbdbd;
+}
+
+.footer-text {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    font-weight: 500;
+    color: #828282;
+    text-align: center;
+}
+
+.footer-name {
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+.sector-split {
+    display: flex;
+}
+
+
+
+
