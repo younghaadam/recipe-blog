@@ -13,7 +13,7 @@
 
 .paragraph-1 {
     font-family: 'Montserrat', sans-serif;
-    font-style: italic;
+    font-style: normal;
     font-size: 14px;
     font-weight: 500;
     color: #4f4f4f;
@@ -25,9 +25,11 @@
 }
 
 .side-bar {
-    width: 216px;
-    height: 367px;
-    border-radius: solid 5px;
+    width: 210px;
+    height:450px;
+    margin-left: 170px;
+    margin-top: 30px;
+  
 }
 
 .menu-icon {
@@ -60,7 +62,7 @@
 }
 
 .ol-list {
-    list-style-type: none;
+   list-style-type: none;
 }
 
 .text-inputs {
@@ -97,6 +99,13 @@
     display: flex;
 }
 
+.card-icons {
+    width: 25px;
+    height: 25px;
+}
 
+.icons {
+    
+}
 
 
